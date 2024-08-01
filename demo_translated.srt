@@ -1,0 +1,39 @@
+1
+00:00:01,000 --> 00:00:03,500
+Bonjour, bienvenue dans la vidéo.
+
+2
+00:00:04,000 --> 00:00:06,000
+Aujourd'hui, nous allons discuter des bases des fichiers SRT.
+
+3
+00:00:06,500 --> 00:00:09,000
+Vous apprendrez à les créer et à les formater.
+
+4
+00:00:09,500 --> 00:00:12,000
+Commençons !
+
+5
+00:00:12,500 --> 00:00:15,000
+Tout d'abord, vous avez besoin d'un éditeur de texte pour écrire votre fichier SRT.
+
+6
+00:00:15,500 --> 00:00:18,000
+Assurez-vous de l'enregistrer avec l'extension .srt.
+
+7
+00:00:18,500 --> 00:00:20,500
+Chaque entrée de sous-titre commence par un numéro.
+
+8
+00:00:21,000 --> 00:00:23,500
+Ensuite, vous avez besoin d'un code temporel pour indiquer quand le sous-titre doit apparaître.
+
+9
+00:00:24,000 --> 00:00:27,000
+Le format du code temporel est : heures:minutes:secondes,millisecondes
+
+10
+00:00:27,500 --> 00:00:30,000
+Enfin, vous écrivez le texte du sous-titre sous le code temporel.
